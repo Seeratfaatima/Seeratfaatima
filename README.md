@@ -1,6 +1,6 @@
-## Hi, I'm Seerat Fatima 👋
+## Hi, I'm Seerat Fatima ✨
 
-- 🔭 Computer Science student at The University of Lahore stands out to me as the perfect place to deepen my understanding of computer science principles and engage with cutting-edge technologies.<br>
+- 🔭 Computer Science student at The University of Lahore, Stands out to me as the perfect place to deepen my understanding of computer science principles and engage with cutting-edge technologies.<br>
 - 🌱 I’m currently learning Web development.<br>
 - 👯 I’m eager to advance my expertise and contribute to the frontfront of data science and web designing.<br>
 
